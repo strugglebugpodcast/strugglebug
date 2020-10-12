@@ -1,2 +1,2 @@
-# strugglebug
+# Struggle Bug
 website
